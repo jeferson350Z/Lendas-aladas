@@ -1,0 +1,617 @@
+@media only screen and (max-width: 360px) {
+   
+
+    header div {
+        display: flex;
+        align-items: center;
+        right: 150px;
+        background-image: linear-gradient(to bottom #da0808);
+        border-top: 2px solid rgb(4, 231, 144);
+        border-bottom: 5px solid rgb(6, 216, 146);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+    .botao {
+        color: #f10505;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px solid blue;
+        position: static;
+        background-color: rgb(13, 14, 14);
+        background-image: linear-gradient(to bottom black)
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        font-weight: 200;
+        color: rgb(216, 28, 28);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+
+    p {
+        font-weight: 200;
+        color: #f0e9e9;
+    }
+
+
+
+    img {
+        width: 290px;
+        justify-content: center;
+    }
+
+
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+        border: solid 5px #f10505;
+
+
+    }
+
+
+    .container {
+        background-color: rgba(226, 236, 225, 0.917);
+        text-align: center;
+    }
+
+    .container>p {
+        margin-top: 0px !important;
+
+    }
+
+
+    .dj {
+        display: inline-flex;
+        color: rgb(241, 238, 237);
+        justify-content: center;
+    }
+
+    .fm {
+        display: grid;
+        justify-content: grid;
+        border: #f0e9e9;
+    }
+}
+
+@media only screen and (min-width: 361px) and (max-width: 480px) {
+    
+
+    header div {
+        display: flex;
+        align-items: center;
+        right: 150px;
+        background-image: linear-gradient(to bottom #da0808);
+        border-top: 2px solid rgb(4, 231, 144);
+        border-bottom: 5px solid rgb(6, 216, 146);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+    .botao {
+        color: #f10505;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px solid blue;
+        position: static;
+        background-color: rgb(13, 14, 14);
+        background-image: linear-gradient(to bottom black)
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        font-weight: 200;
+        color: rgb(216, 28, 28);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+
+    p {
+        font-weight: 200;
+        color: #f0e9e9;
+    }
+
+
+
+    img {
+        width: 290px;
+        justify-content: center;
+    }
+
+
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+        border: solid 5px #f10505;
+
+
+    }
+
+
+    .container {
+        background-color: rgba(226, 236, 225, 0.917);
+        text-align: center;
+    }
+
+    .container>p {
+        margin-top: 0px !important;
+
+    }
+
+
+    .dj {
+        display: inline-flex;
+        color: rgb(241, 238, 237);
+        justify-content: center;
+    }
+
+    .fm {
+        display: flex;
+        justify-content: center;
+        border: #f0e9e9;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+   
+    header div {
+        display: flex;
+        align-items: center;
+        right: 150px;
+        background-image: linear-gradient(to bottom #da0808);
+        border-top: 2px solid rgb(4, 231, 144);
+        border-bottom: 5px solid rgb(6, 216, 146);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+    .botao {
+        color: #f10505;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px solid blue;
+        position: static;
+        background-color: rgb(13, 14, 14);
+        background-image: linear-gradient(to bottom black)
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        font-weight: 200;
+        color: rgb(216, 28, 28);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+
+    p {
+        font-weight: 200;
+        color: #f0e9e9;
+    }
+
+
+
+    img {
+        width: 290px;
+        justify-content: center;
+    }
+
+
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+        border: solid 5px #f10505;
+
+
+    }
+
+
+    .container {
+        background-color: rgba(226, 236, 225, 0.917);
+        text-align: center;
+    }
+
+    .container>p {
+        margin-top: 0px !important;
+
+    }
+
+
+    .dj {
+        display: inline-flex;
+        color: rgb(241, 238, 237);
+        justify-content: center;
+    }
+
+    .fm {
+        display: flex;
+        justify-content: center;
+        border: #f0e9e9;
+    }
+
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    
+    header div {
+        display: flex;
+        align-items: center;
+        right: 150px;
+        background-image: linear-gradient(to bottom #da0808);
+        border-top: 2px solid rgb(4, 231, 144);
+        border-bottom: 5px solid rgb(6, 216, 146);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+    .botao {
+        color: #f10505;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px solid blue;
+        position: static;
+        background-color: rgb(13, 14, 14);
+        background-image: linear-gradient(to bottom black)
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        font-weight: 200;
+        color: rgb(216, 28, 28);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+
+    p {
+        font-weight: 200;
+        color: #f0e9e9;
+    }
+
+
+
+    img {
+        width: 290px;
+        justify-content: center;
+    }
+
+
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+        border: solid 5px #f10505;
+
+
+    }
+
+
+    .container {
+        background-color: rgba(226, 236, 225, 0.917);
+        text-align: center;
+    }
+
+    .container>p {
+        margin-top: 0px !important;
+
+    }
+
+
+    .dj {
+        display: inline-flex;
+        color: rgb(241, 238, 237);
+        justify-content: center;
+    }
+
+    .fm {
+        display: flex;
+        justify-content: center;
+        border: #f0e9e9;
+    }
+
+}
+
+
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+   
+    header div {
+        display: flex;
+        align-items: center;
+        right: 150px;
+        background-image: linear-gradient(to bottom #da0808);
+        border-top: 2px solid rgb(4, 231, 144);
+        border-bottom: 5px solid rgb(6, 216, 146);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+    .botao {
+        color: #f10505;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px solid blue;
+        position: static;
+        background-color: rgb(13, 14, 14);
+        background-image: linear-gradient(to bottom black)
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        font-weight: 200;
+        color: rgb(216, 28, 28);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+
+    p {
+        font-weight: 200;
+        color: #f0e9e9;
+    }
+
+
+
+    img {
+        width: 290px;
+        justify-content: center;
+    }
+
+
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+        border: solid 5px #f10505;
+
+
+    }
+
+
+    .container {
+        background-color: rgba(226, 236, 225, 0.917);
+        text-align: center;
+    }
+
+    .container>p {
+        margin-top: 0px !important;
+
+    }
+
+
+    .dj {
+        display: inline-flex;
+        color: rgb(241, 238, 237);
+        justify-content: center;
+    }
+
+    .fm {
+        display: flex;
+        justify-content: center;
+        border: #f0e9e9;
+    }
+}
+
+
+@media only screen and (min-width: 1281px) and (max-width: 1440px) {
+    header div {
+        display: flex;
+        align-items: center;
+        right: 150px;
+        background-image: linear-gradient(to bottom #da0808);
+        border-top: 2px solid rgb(4, 231, 144);
+        border-bottom: 5px solid rgb(6, 216, 146);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+    .botao {
+        color: #f10505;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px solid blue;
+        position: static;
+        background-color: rgb(13, 14, 14);
+        background-image: linear-gradient(to bottom black)
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        font-weight: 200;
+        color: rgb(216, 28, 28);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+
+    p {
+        font-weight: 200;
+        color: #f0e9e9;
+    }
+
+
+
+    img {
+        width: 290px;
+        justify-content: center;
+    }
+
+
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+        border: solid 5px #f10505;
+
+
+    }
+
+
+    .container {
+        background-color: rgba(226, 236, 225, 0.917);
+        text-align: center;
+    }
+
+    .container>p {
+        margin-top: 0px !important;
+
+    }
+
+
+    .dj {
+        display: inline-flex;
+        color: rgb(241, 238, 237);
+        justify-content: center;
+    }
+
+    .fm {
+        display: flex;
+        justify-content: center;
+        border: #f0e9e9;
+    }
+}
+
+
+@media only screen and (min-width: 1441px) {
+    
+    
+    
+    header div {
+        display: flex;
+        align-items: center;
+        right: 150px;
+        background-image: linear-gradient(to bottom #da0808);
+        border-top: 2px solid rgb(4, 231, 144);
+        border-bottom: 5px solid rgb(6, 216, 146);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+    .botao {
+        color: #f10505;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px solid blue;
+        position: static;
+        background-color: rgb(13, 14, 14);
+        background-image: linear-gradient(to bottom black)
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        font-weight: 200;
+        color: rgb(216, 28, 28);
+        text-align: center;
+        justify-content: center;
+    }
+
+
+
+
+    p {
+        font-weight: 200;
+        color: #f0e9e9;
+    }
+
+
+
+    img {
+        width: 290px;
+        justify-content: center;
+    }
+
+
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+        border: solid 5px #f10505;
+
+
+    }
+
+
+    .container {
+        background-color: rgba(226, 236, 225, 0.917);
+        text-align: center;
+    }
+
+    .container>p {
+        margin-top: 0px !important;
+
+    }
+
+
+    .dj {
+        display: inline-flex;
+        color: rgb(241, 238, 237);
+        justify-content: center;
+    }
+
+    .fm {
+        display: flex;
+        justify-content: center;
+        border: #f0e9e9;
+    }
+}

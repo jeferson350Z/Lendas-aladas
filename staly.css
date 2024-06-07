@@ -1,0 +1,110 @@
+header div {
+    display: flex;
+    align-items: center;
+    right: 150px;
+    background-image: linear-gradient(to bottom #da0808);
+    border-top: 2px solid rgb(4, 231, 144);
+    border-bottom: 5px solid rgb(6, 216, 146);
+    text-align: center;
+    justify-content: center;
+}
+
+.titulo {
+    color: #f10505;
+}
+
+
+.botao {
+    color: #f10505;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px solid blue;
+    position: static;
+    background-color: rgb(13, 14, 14);
+    background-image: linear-gradient(to bottom black)
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: 200;
+    color: rgb(216, 28, 28);
+    text-align: center;
+    justify-content: center;
+}
+
+
+h2 {
+
+    color: #dae2cc;
+}
+
+body {
+    background-color: rgb(17, 17, 17);
+
+}
+
+p {
+    font-weight: 200;
+    color: #f0e9e9;
+}
+
+li {
+    color: #dae2cc;
+}
+
+img {
+    width: 290px;
+    justify-content: center;
+}
+
+h3 {
+    color: aqua;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border: solid 5px #f10505;
+
+
+}
+
+
+.container {
+    background-color: rgba(226, 236, 225, 0.917);
+    text-align: center;
+}
+
+.container>p {
+    margin-top: 0px !important;
+
+}
+
+
+.dj {
+    display: flex;
+    color: rgb(241, 238, 237);
+    justify-content: center;
+}
+
+.fm {
+    display: flex;
+    justify-content: center;
+    border: #f0e9e9;
+}
+
+main {
+    display: flex;
+}
+
+.texto {
+    display: grid;
+}
+
+footer {
+    display: grid;
+    justify-content: center;
+}
